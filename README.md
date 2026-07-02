@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="./README_EN.md">English</a> |
-  <a href="./CONTRIBUTING.md">贡献指南</a>
+  <a href="./CONTRIBUTING.md">贡献指</a>
 </p>
 
 > **免责声明**  
